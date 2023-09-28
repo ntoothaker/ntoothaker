@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Software Development
 - 💞️ I’m looking to collaborate on anything that makes me learn, at the moment.
 - 📫 How to reach me:  
--                   discord Randomita#7433
+-                   discord Randomita
 -                   e-mail toothakernathaniel@gmail.com
 
 <!---
